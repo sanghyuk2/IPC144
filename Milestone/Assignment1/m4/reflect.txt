@@ -1,0 +1,8 @@
+1. Briefly explain why you think this assignment has asked you to code a struct, Contact, that holds three other structs as data members.
+Answer) If we do not make construct named contact, we should use different name for each modules. If not, the code would be more longer and not easy to understand for user.
+
+2. What was the most difficult part of this assignment?
+Answer) Connect through header file and contacts.h by using function call was most difficult part of this assignment for me.
+
+3. How long did it take to complete Milestone 4?
+Answer) It tooks around 3 hours to finish.

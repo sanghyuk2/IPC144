@@ -1,0 +1,7 @@
+1. In 3 or 4 sentences explain the term "function" and briefly discuss the need for functions in any language?
+Answer1) Function consists of group of statements performing a task. It runs the program by exchanging controls between each functions. The act transfering controls to another is called calling another function, 
+when the another function returns the value, it is called 'return'. The useage of the function is that if user defines a function once, user can re-use everywhere user wants which means saving time.
+
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module.
+Answer2) In the "contacts" module, we typed the functions that are related with the functions which is included in the Contacts structure such as Name, Address, Numbers. For the "helper" functions, there are 
+functions that are called from the functions in "contacts" to judge whether conducting the functions or not. By using the helper, It literally helps the contacts functions more efficiently.

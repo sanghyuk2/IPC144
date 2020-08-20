@@ -1,0 +1,5 @@
+1. Can you think of a more efficient way to ask a user to add the required information to each data field?
+Answer 1) For my personal opinion, if we use loop(while, do while loop) for question, it will be more efficient way to ask. Or as we have done, we can suggest options to choose just for information in need. To give a chance for user to choose option that user need is also one of the efficient way to ask.
+
+2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+Answer 2) Because string includes special terminater called null terminater(\0) which follows the last meaningful character, to prepare the null terminater place, we need to make one more room for it.

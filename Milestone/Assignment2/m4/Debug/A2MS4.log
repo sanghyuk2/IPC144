@@ -1,0 +1,4 @@
+﻿  contactHelpers.c
+c:\users\slee395\desktop\ipc-project-master(1)\ipc-project-master\a2\ms4\contacthelpers.c(177): warning C4101: 'yes_or_no': unreferenced local variable
+  A2MS4.vcxproj -> C:\Users\slee395\Desktop\IPC-Project-master(1)\IPC-Project-master\A2\MS4\Debug\A2MS4.exe
+  A2MS4.vcxproj -> C:\Users\slee395\Desktop\IPC-Project-master(1)\IPC-Project-master\A2\MS4\Debug\A2MS4.pdb (Partial PDB)

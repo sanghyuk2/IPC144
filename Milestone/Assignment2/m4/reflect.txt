@@ -1,0 +1,9 @@
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability.
+Answer3) getTenDigitPhone is needed when user want to make sure the text user typed is satisfied with the condition (10digit). 
+Because the phone number is one of the requirements to identify contact's information and frequently used in main functions. 
+For findContactIndex, basically index is extended from 0 to the one less number of elements. To find, add, delete or sort contact's inoformation, contact's index is first essential to find contacts. 
+These are the reason why these function improves overall readability and maintenance.
+
+4. What did you learn most from doing Assignment 2?
+Answer4) What I have learned most during doing Assignment 2 is creating variable functions in a code and find address what I want for modifying by using several functions. 
+Therefore, I could reinforce my ability to make code more readability and short.   
